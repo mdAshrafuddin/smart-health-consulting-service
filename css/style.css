@@ -1,0 +1,125 @@
+
+.full-width{
+	/*width: 100%;*/
+	/*background-color: red;*/
+}
+
+.conatainer-full{
+	background-color: #2bbbad!important;
+	    
+	 }
+
+.box-show-none{
+	box-shadow: none;
+	webkit-box-shadow: none;
+}	 
+
+.logo-img{
+	width: 50px;
+	height: 50px;
+}
+
+#conatainer-white{
+	background-color: #ffffff;
+}
+.nav-white{
+	    color: #231f1f !important;
+}
+
+#conatainer-navbar{
+	background-color: #080808!important;
+}
+.bg-change{
+	    background-color: #080808!important;
+}
+
+.no-padding{
+  margin-right: 0;
+  margin-left: 0;
+
+
+    padding-right: 0;
+    padding-left: 0;
+  
+}
+#emegenery{
+	    padding-top: 80px;
+}
+
+/*patienssays css*/
+
+#patienssays{
+
+}
+
+/*====================================
+          testimonials-cover
+====================================*/
+#testimonials-cover{
+    background-image: url(../img/bg-testominal//bg-testimonials.jpg);
+}
+#testimonials .content-box{
+    background-color: rgba(0,0,0,.1);
+}
+#customers-testimonials{
+    padding: 50px 0;
+}
+.testimonial img{
+    max-width: 120px;
+    margin: 0 auto 0 auto;
+}
+.testimonial blockquote{
+    border: 0;
+    font-family: Georgia,sans-serif;
+    font-style: italic;
+    color: #fff;
+    padding: 6px 150px;
+    position: relative;
+    
+}
+
+.testimonial blockquote p{
+    color: #fff;
+}
+.testimonial blockquote:before,
+.testimonial blockquote:after{
+    font-size: 80px;
+    font-style: normal;
+    line-height: 1;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+.testimonial blockquote:before{
+    content: "\201C";
+    top: 0;
+    left: 100px;
+}
+.testimonial blockquote:after{
+    content: "\201D";
+    bottom: 0;
+    right: 100px;
+}
+.testimonial-author p{
+    color: #fff;
+    font-size: 17px;
+}
+.testimonial-author p strong{
+    display: block;
+}
+.bg-parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.contant-title-white h3 {
+    color: #fff;
+}
+
+.content-title h3 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 0 30px 0;
+}
